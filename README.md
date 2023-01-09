@@ -53,13 +53,13 @@ BitsApp implementation specifications are categorized under six sub-categories; 
 | [BDS-12](12.md)   | Non-interactive swap invoices           | Draft      |
 
 ### Future Extensions
-| Index  | Specification                                      | Status     |
-|------- |----------------------------------------------------|------------|
-| [BDS-13](13.md)   | Permenant channel addresses             | Draft      |
-| [BDS-14](14.md)   | Encumbered swaps factories              | Draft      |
-| [BDS-15](15.md)   | Inbound swap settlement protocol        | Draft      |
-| [BDS-16](16.md)   | Swap factory trees                      | Draft      |
-| [BDS-17](17.md)   | Swap settlement credits                 | Draft      |
+| Index  | Specification                                      | Status     | Changes to Bitcoin requited  |
+|------- |----------------------------------------------------|------------| -----------------------------|
+| [BDS-13](13.md)   | Permenant channel addresses             | Draft      | CSFS, TXHASH                 |
+| [BDS-14](14.md)   | Encumbered swaps factories              | Draft      | APO                          |
+| [BDS-15](15.md)   | Inbound swap settlement protocol        | Draft      | XOR                          |
+| [BDS-16](16.md)   | Swap factory trees                      | Draft      | CTLUV, CSFS, TXHASH          |
+| [BDS-17](17.md)   | Swap settlement credits                 | Draft      | CTLUV, CSFS, TXHASH          |
 
 ### Backups & Recovery
 | Index  | Specification                                      | Status     |
