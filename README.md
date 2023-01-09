@@ -16,7 +16,7 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-12: Permenant channel addresses](12.md)
 - [BAS-13: Encumbered silent swaps](13.md)
 - [BAS-14: Inbound swap settlement protocol](14.md)
-- [BAS-15: Silent swaps trees](15.md)
+- [BAS-15: Swap factory trees](15.md)
 - [BAS-16: Swap settlement credits](16.md)
 - [BAS-17: Channel backups](17.md)
 - [BAS-18: Channel recovery](18.md)
