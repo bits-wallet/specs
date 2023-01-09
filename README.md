@@ -25,8 +25,8 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-21:  Service provider federation](21.md)
 
 ### Onboarding
-| Index | Spec                                                | Status     |
-|-------|-----------------------------------------------------|------------|
+| Number | Spec                                               | Status     |
+|------- |----------------------------------------------------|------------|
 | [BAS-01](01.md)   | One-directional channels                | Draft      |
 | [BAS-02](01.md)   | Expiring channel addresses              | Draft      |
 
