@@ -6,7 +6,7 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-02: Expiring channel addresses](02.md)
 - [BAS-03: Silent swaps](03.md)
 - [BAS-04: Swap factories](04.md)
-- [BAS-05: Swap initiation protocol](05.md)
+- [BAS-05: Swap formation protocol](05.md)
 - [BAS-06: Swap credit protocol](06.md)
 - [BAS-07: Swap settlement protocol](07.md)
 - [BAS-08: Swap statuses](08.md)
@@ -24,21 +24,22 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-20: Routing service](20.md)
 - [BAS-21:  Service provider federation](21.md)
 
+## Spec Categorization
+
 ### Onboarding
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
 | [BAS-01](01.md)   | One-directional channels                | Draft      |
-| [BAS-02](01.md)   | Expiring channel addresses              | Draft      |
+| [BAS-02](02.md)   | Expiring channel addresses              | Draft      |
 
-
-## Message types
-
-### Client to Relay
-| type  | description                                         | NIP        |
-|-------|-----------------------------------------------------|------------|
-| EVENT | used to publish events                              | [1](01.md) |
-| REQ   | used to request events and subscribe to new updates | [1](01.md) |
-| CLOSE | used to stop previous subscriptions                 | [1](01.md) |
+### Receiving
+| Index  | Specification                                      | Status     |
+|------- |----------------------------------------------------|------------|
+| [BAS-03](03.md)   | Silent swaps                            | Draft      |
+| [BAS-04](04.md)   | Swap factoriees                         | Draft      |
+| [BAS-05](05.md)   | Swap formation protocol                 | Draft      |
+| [BAS-06](06.md)   | Swap credit protocol                    | Draft      |
+| [BAS-07](07.md)   | Swap settlement protocol                | Draft      |
 
 ### Relay to Client
 | type   | description                                             | NIP         |
