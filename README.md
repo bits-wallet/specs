@@ -39,7 +39,7 @@ BitsApp implementation specifications are categorized under six sub-categories; 
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
 | [BIS-04](04.md)   | Silent swaps                            | Draft      |
-| [BIS-05](05.md)   | Swap factoriees                         | Draft      |
+| [BIS-05](05.md)   | Swap factories                         | Draft      |
 | [BIS-06](06.md)   | Swap formation protocol                 | Draft      |
 | [BIS-07](07.md)   | Swap credit protocol                    | Draft      |
 | [BIS-08](08.md)   | Swap settlement protocol                | Draft      |
