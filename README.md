@@ -14,7 +14,7 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-10: Interactive swap invoices](10.md)
 - [BAS-11: Non-interactive swap invoices](11.md)
 - [BAS-12: Permenant channel addresses](12.md)
-- [BAS-13: Encumbered silent swaps](13.md)
+- [BAS-13: Encumbered swap factories](13.md)
 - [BAS-14: Inbound swap settlement protocol](14.md)
 - [BAS-15: Swap factory trees](15.md)
 - [BAS-16: Swap settlement credits](16.md)
@@ -48,6 +48,15 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 | [BAS-09](09.md)   | Payment statusses                       | Draft      |
 | [BAS-10](10.md)   | Interactive swap invocies               | Draft      |
 | [BAS-11](11.md)   | Non-interactive swap invoices           | Draft      |
+
+### Future Extensions
+| Index  | Specification                                      | Status     |
+|------- |----------------------------------------------------|------------|
+| [BAS-12](12.md)   | Permenant channel addresses             | Draft      |
+| [BAS-13](13.md)   | Encumbered swaps factories              | Draft      |
+| [BAS-14](14.md)   | Inbound swap settlement protocol        | Draft      |
+| [BAS-15](15.md)   | Swap factory trees                      | Draft      |
+| [BAS-16](16.md)   | Swap settlement credits                 | Draft      |
 
 ### Relay to Client
 | type   | description                                             | NIP         |
