@@ -1,6 +1,6 @@
 # Specs
 
-BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifications**. Specs are written to provide and open and accessible documentations for [BitsApp](https://bits.app) implementation details.
+BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifications**. Specs are written to provide open and accessible documentation for [BitsApp](https://bits.app) implementation details.
 
 - [NIP-01: Basic protocol flow description](01.md)
 - [NIP-02: Contact List and Petnames](02.md)
