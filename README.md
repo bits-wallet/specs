@@ -3,7 +3,7 @@
 BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifications**. Specs are written to provide open and accessible documentation for [BitsApp](https://bits.app) implementation details.
 
 - [BAS-01: One-directional channels](01.md)
-- [BAS-01: Non-interactive channel formation protocol](01.md)
+- [BAS-01: One-directional channel formation protocol](01.md)
 - [BAS-02: Expiring channel addresses](02.md)
 - [BAS-03: Silent swaps](03.md)
 - [BAS-04: Swap factories](04.md)
