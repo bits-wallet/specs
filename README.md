@@ -1,6 +1,6 @@
-# NIPs
+# BitsApp specs
 
-NIPs stand for **Nostr Implementation Possibilities**. They exist to document what MUST, what SHOULD and what MAY be implemented by [Nostr](https://github.com/fiatjaf/nostr)-compatible _relay_ and _client_ software.
+BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifications**. Specs are written to provide and open and accessible documentations for [BitsApp](https://bits.app) implementation details.
 
 - [NIP-01: Basic protocol flow description](01.md)
 - [NIP-02: Contact List and Petnames](02.md)
