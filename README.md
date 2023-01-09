@@ -32,41 +32,42 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 |------- |----------------------------------------------------|------------|
 | [BAS-01](01.md)   | One-directional channels                | Draft      |
 | [BAS-02](02.md)   | Expiring channel addresses              | Draft      |
+| [BAS-03](03.md)   | Expiring channel formation prototocol   | Draft      |
 
 ### Receiving
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
-| [BAS-03](03.md)   | Silent swaps                            | Draft      |
-| [BAS-04](04.md)   | Swap factoriees                         | Draft      |
-| [BAS-05](05.md)   | Swap formation protocol                 | Draft      |
-| [BAS-06](06.md)   | Swap credit protocol                    | Draft      |
-| [BAS-07](07.md)   | Swap settlement protocol                | Draft      |
+| [BAS-04](04.md)   | Silent swaps                            | Draft      |
+| [BAS-05](05.md)   | Swap factoriees                         | Draft      |
+| [BAS-06](06.md)   | Swap formation protocol                 | Draft      |
+| [BAS-07](07.md)   | Swap credit protocol                    | Draft      |
+| [BAS-08](08.md)   | Swap settlement protocol                | Draft      |
 
 ### User Experience
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
-| [BAS-08](08.md)   | Swap statusses                          | Draft      |
-| [BAS-09](09.md)   | Payment statusses                       | Draft      |
-| [BAS-10](10.md)   | Interactive swap invocies               | Draft      |
-| [BAS-11](11.md)   | Non-interactive swap invoices           | Draft      |
+| [BAS-09](09.md)   | Swap statusses                          | Draft      |
+| [BAS-10](10.md)   | Payment statusses                       | Draft      |
+| [BAS-11](11.md)   | Interactive swap invocies               | Draft      |
+| [BAS-12](12.md)   | Non-interactive swap invoices           | Draft      |
 
 ### Future Extensions
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
-| [BAS-12](12.md)   | Permenant channel addresses             | Draft      |
-| [BAS-13](13.md)   | Encumbered swaps factories              | Draft      |
-| [BAS-14](14.md)   | Inbound swap settlement protocol        | Draft      |
-| [BAS-15](15.md)   | Swap factory trees                      | Draft      |
-| [BAS-16](16.md)   | Swap settlement credits                 | Draft      |
+| [BAS-13](13.md)   | Permenant channel addresses             | Draft      |
+| [BAS-14](14.md)   | Encumbered swaps factories              | Draft      |
+| [BAS-15](15.md)   | Inbound swap settlement protocol        | Draft      |
+| [BAS-16](16.md)   | Swap factory trees                      | Draft      |
+| [BAS-17](17.md)   | Swap settlement credits                 | Draft      |
 
 ### Future Extensions
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
-| [BAS-12](12.md)   | Permenant channel addresses             | Draft      |
-| [BAS-13](13.md)   | Encumbered swaps factories              | Draft      |
-| [BAS-14](14.md)   | Inbound swap settlement protocol        | Draft      |
-| [BAS-15](15.md)   | Swap factory trees                      | Draft      |
-| [BAS-16](16.md)   | Swap settlement credits                 | Draft      |
+| [BAS-18](18.md)   | Permenant channel addresses             | Draft      |
+| [BAS-19](19.md)   | Encumbered swaps factories              | Draft      |
+| [BAS-20](20.md)   | Inbound swap settlement protocol        | Draft      |
+| [BAS-21](21.md)   | Swap factory trees                      | Draft      |
+| [BAS-22](22.md)   | Swap settlement credits                 | Draft      |
 
 
 ### Relay to Client
