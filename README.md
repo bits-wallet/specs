@@ -24,26 +24,12 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-20: Routing service](20.md)
 - [BAS-21:  Service provider federation](21.md)
 
-## Event Kinds
+## Onboarding
 
-| kind        | description                 | NIP                    |
-|-------------|-----------------------------|------------------------|
-| 0           | Metadata                    | [1](01.md), [5](05.md) |
-| 1           | Text                        | [1](01.md)             |
-| 2           | Recommend Relay             | [1](01.md)             |
-| 3           | Contacts                    | [2](02.md)             |
-| 4           | Encrypted Direct Messages   | [4](04.md)             |
-| 5           | Event Deletion              | [9](09.md)             |
-| 6           | Repost                      | [18](18.md)            |
-| 7           | Reaction                    | [25](25.md)            |
-| 40          | Channel Creation            | [28](28.md)            |
-| 41          | Channel Metadata            | [28](28.md)            |
-| 42          | Channel Message             | [28](28.md)            |
-| 43          | Channel Hide Message        | [28](28.md)            |
-| 44          | Channel Mute User           | [28](28.md)            |
-| 45-49       | Public Chat Reserved        | [28](28.md)            |
-| 10000-19999 | Replaceable Events Reserved | [16](16.md)            |
-| 20000-29999 | Ephemeral Events Reserved   | [16](16.md)            |
+| BAS        | description                 |
+|-------------|-----------------------------|
+| [1](01.md)           | One-directional channels                    |
+| [2](02.md)           | Expiring channel addresses                        |
 
 
 ## Message types
