@@ -26,7 +26,7 @@ BitsApp specifications (BIS in short) stand for **BitsApp Implementation Specifi
 - [BIS-22:  Service provider federation](21.md)
 
 ## BIS Categorization
-BitsApp implementation specifications are categorized under six sub-categories; onboarding, receiving, user experience, future extensions, becakups & recovery, and service.
+BitsApp implementation specifications are categorized under six sub-categories; onboarding, receiving, user experience, future extensions, backups & recovery, and service.
 
 ### Onboarding
 | Index  | Specification                                      | Status     |
