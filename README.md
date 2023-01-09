@@ -41,6 +41,14 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 | [BAS-06](06.md)   | Swap credit protocol                    | Draft      |
 | [BAS-07](07.md)   | Swap settlement protocol                | Draft      |
 
+### User Experience
+| Index  | Specification                                      | Status     |
+|------- |----------------------------------------------------|------------|
+| [BAS-08](08.md)   | Swap statusses                          | Draft      |
+| [BAS-09](09.md)   | Payment statusses                       | Draft      |
+| [BAS-10](10.md)   | Interactive swap invocies               | Draft      |
+| [BAS-11](11.md)   | Non-interactive swap invoices           | Draft      |
+
 ### Relay to Client
 | type   | description                                             | NIP         |
 |--------|---------------------------------------------------------|-------------|
