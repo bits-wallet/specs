@@ -24,12 +24,11 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 - [BAS-20: Routing service](20.md)
 - [BAS-21:  Service provider federation](21.md)
 
-## Onboarding
-
-| BAS        | description                 |
-|-------------|-----------------------------|
-| [1](01.md)           | One-directional channels                    |
-| [2](02.md)           | Expiring channel addresses                        |
+### Onboarding
+| type  | description                                         | Status        |
+|-------|-----------------------------------------------------|------------|
+| [BAS-01](01.md) | One-directional channels                             | Draft |
+| [BAS-2](01.md)   | Expiring channel addresses | Draft |
 
 
 ## Message types
