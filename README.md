@@ -1,4 +1,4 @@
-# BitsApp specs
+# Specs
 
 BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifications**. Specs are written to provide and open and accessible documentations for [BitsApp](https://bits.app) implementation details.
 
