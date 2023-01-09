@@ -67,7 +67,7 @@ BitsApp implementation specifications are categorized under six sub-categories; 
 | [BDS-17](17.md)   | Service provider federation             | Draft      |
 
 ### Future Extensions
-| Index  | Specification                                      | Status     | Changes to Bitcoin requited  |
+| Index  | Specification                                      | Status     | Changes to Bitcoin required  |
 |------- |----------------------------------------------------|------------| -----------------------------|
 | [BDS-18](18.md)   | Permenant channel addresses             | Draft      | CSFS, TXHASH                 |
 | [BDS-19](19.md)   | Encumbered swaps factories              | Draft      | APO                          |
