@@ -60,19 +60,18 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 | [BAS-16](16.md)   | Swap factory trees                      | Draft      |
 | [BAS-17](17.md)   | Swap settlement credits                 | Draft      |
 
-### Backup & Recovery
+### Backups & Recovery
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
 | [BAS-18](18.md)   | Channel backups                         | Draft      |
 | [BAS-19](19.md)   | Channel recovery                        | Draft      |
 
-### Relay to Client
-| type   | description                                             | NIP         |
-|--------|---------------------------------------------------------|-------------|
-| EVENT  | used to send events requested to clients                | [1](01.md)  |
-| NOTICE | used to send human-readable messages to clients         | [1](01.md)  |
-| EOSE   | used to notify clients all stored events have been sent | [15](15.md) |
-| OK     | used to notify clients if an EVENT was successuful      | [20](20.md) |
+### Service
+| Index  | Specification                                      | Status     |
+|------- |----------------------------------------------------|------------|
+| [BAS-20](20.md)   | Swap service                            | Draft      |
+| [BAS-21](21.md)   | Routing service                         | Draft      |
+| [BAS-22](22.md)   | Service provider federation             | Draft      |
 
 Please update these lists when proposing NIPs introducing new event kinds.
 
