@@ -60,15 +60,11 @@ BitsApp specifications (BAS in short) stand for **BitsApp Implementation Specifi
 | [BAS-16](16.md)   | Swap factory trees                      | Draft      |
 | [BAS-17](17.md)   | Swap settlement credits                 | Draft      |
 
-### Future Extensions
+### Backup & Recovery
 | Index  | Specification                                      | Status     |
 |------- |----------------------------------------------------|------------|
-| [BAS-18](18.md)   | Permenant channel addresses             | Draft      |
-| [BAS-19](19.md)   | Encumbered swaps factories              | Draft      |
-| [BAS-20](20.md)   | Inbound swap settlement protocol        | Draft      |
-| [BAS-21](21.md)   | Swap factory trees                      | Draft      |
-| [BAS-22](22.md)   | Swap settlement credits                 | Draft      |
-
+| [BAS-18](18.md)   | Channel backups                         | Draft      |
+| [BAS-19](19.md)   | Channel recovery                        | Draft      |
 
 ### Relay to Client
 | type   | description                                             | NIP         |
